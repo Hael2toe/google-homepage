@@ -1,2 +1,1 @@
-This is my first attempt recreating the Google Homepage using HTML and CSS
-in the Atom Text Editor and developer tools. 
+Having trouble with the footer and nesting the "google-voice-search" icon in the search bar.  
